@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Nnaman1/Menu-App/issues"
   },
-  "homepage": "https://github.com/Nnaman1/Menu-App#readme"
+  "homepage": "https://github.com/Nnaman1/Menu-App#readme",
+  "dependencies": {
+    "puppeteer": "^5.3.1"
+  }
 }
