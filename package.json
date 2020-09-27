@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Nnaman1/Menu-App#readme",
   "dependencies": {
+    "prettier": "^2.1.2",
     "puppeteer": "^5.3.1"
   }
 }
